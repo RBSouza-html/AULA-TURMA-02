@@ -1,0 +1,1 @@
+Verificar a versão/instalação do git no seu pc.
